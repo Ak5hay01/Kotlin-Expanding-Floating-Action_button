@@ -4,7 +4,7 @@
 ![alt text](/screenshots/home.PNG)
 
 
-# When Fab clicked
+# Expanding Fab button
 ![alt text](/screenshots/after_click.PNG)
 
 # When Edit Fab clicked
